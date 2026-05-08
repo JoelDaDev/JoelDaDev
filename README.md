@@ -1,16 +1,15 @@
-## Hi there 👋
+## JoelDaDev
+Hey there! My name is Joel, and I am a python and web developer specializing in desktop applications.
 
-<!--
-**JoelDaDev/JoelDaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## mDirt
+mDirt, aka _making Datapacks is really tedious_, is a desktop application for developing Minecraft Datapacks from a UI. It allows you to create packs that include custom blocks, items, recipes, equipment sets, and more. mDirt also uses/will use three libraries that are built/being built by me:
 
-Here are some ideas to get you started:
+#### Glowstone
+Glowstone is a library built in Python using ModernGL and Pyglet that renders various Minecraft elements including blocks, chunks, structures, inventories, biomes, etc.
+#### Furnace
+Furnace is a library built in Python that provides a backend for a node-by-node Minecraft command generator.
+#### Redstone
+Redstone is a library built in Python that creates a UI based on the mcdoc format created by Spyglass. It provides each input field for various Minecraft data structures including recipes, enchantments, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+I also have various other projects I work on in my spare time, though my main project is mDirt.
